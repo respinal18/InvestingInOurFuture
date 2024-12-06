@@ -1,6 +1,5 @@
 <h1 align="center">Investing In Our Future: Education and Health Spending</h1>
 
-<!-- Image centered -->
 <div align="center">
   <img src="https://github.com/user-attachments/assets/f25e23f1-8b8a-4182-8b53-8be9b789b459" alt="A symbolic representation of investing in the future through education and health spending." width="300" />
 </div>
